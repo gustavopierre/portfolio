@@ -44,6 +44,7 @@ My credentials include a Master's Degree in Computer Graphics at the Pontifical 
   3. [Think Python](https://github.com/gustavopierre/think_python)
 * Courses:
   1. [Python3 - Curso Completo (Python3 - Full Course) - Udemy](https://github.com/gustavopierre/python3_full_course)
+  2. [Introduction to Programing using Python](https://github.com/gustavopierre/Introduction_to_Programming_using_Python)
 
 ---
 
