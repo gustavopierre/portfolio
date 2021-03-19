@@ -46,6 +46,12 @@ My credentials include a Master's Degree in Computer Graphics at the Pontifical 
   1. [Python3 - Curso Completo (Python3 - Full Course) - Udemy](https://github.com/gustavopierre/python3_full_course)
   2. [Introduction to Programing using Python](https://github.com/gustavopierre/Introduction_to_Programming_using_Python)
 
+
+## **Javascript, NodeJS, React and React Native**
+* [Omnistack11 Week](https://github.com/gustavopierre/OmniStack11Week) - A week of [Rocketseat](https://rocketseat.com.br/) imersion for using Javascript, NodeJS, React and React Native. Development of web and mobile application, from frontend to backend, through the database. The entire project was executed and completed, despite having no knowledge about any of these technologies.
+
+## **CSS**
+* [CSS Imersion](https://github.com/gustavopierre/imersaocss) - A week of imersion using HTML and CSS. I did a simple project and I used a the GitHub to publish this simple project[https://gustavopierre.github.io/imersaocss/](https://gustavopierre.github.io/imersaocss/).
 ---
 
 
