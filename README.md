@@ -47,13 +47,11 @@ My credentials include a Master's Degree in Computer Graphics at the Pontifical 
   2. [Introduction to Programing using Python](https://github.com/gustavopierre/Introduction_to_Programming_using_Python)
 
 
-## **Javascript, NodeJS, React and React Native**
+## **Javascript, NodeJS, React and React Native, HTML, CSS**
 * [DoctorCare](https://github.com/gustavopierre/doctorcare) - Project was made during a week of [Rocketseat](https://rocketseat.com.br/) imersion called Next Level Week using Javascript, HTML and CSS. The entire project was executed and completed. The website is responsive and it can be accessed by the link https://gustavopierre.github.io/doctorcare/
 * [Omnistack11 Week](https://github.com/gustavopierre/OmniStack11Week) - A week of [Rocketseat](https://rocketseat.com.br/) imersion for using Javascript, NodeJS, React and React Native. Development of web and mobile application, from frontend to backend, through the database. The entire project was executed and completed, despite having no knowledge about any of these technologies.
 
-## **CSS**
-* [CSS Imersion](https://github.com/gustavopierre/imersaocss) - A week of imersion using HTML and CSS. I did a simple project and I used a the GitHub to publish this project ([https://gustavopierre.github.io/imersaocss/](https://gustavopierre.github.io/imersaocss/)).
----
+
 
 
 
