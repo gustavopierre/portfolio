@@ -47,6 +47,9 @@ My credentials include a Master's Degree in Computer Graphics at the Pontifical 
   2. [Introduction to Programing using Python](https://github.com/gustavopierre/Introduction_to_Programming_using_Python)
 
 
+## **Java, Spring Boot, Hibernate, Maven, JPA, H2, PostgreSQL**
+* [course-springboot-2-java-11](https://github.com/gustavopierre/course-springboot-2-java-11) - Backend project was made during the course Full Java Object Oriented Programming + Projects  [Course on Udemy](https://www.udemy.com/course/java-curso-completo/), using Java, Spring Boot, Hibernate, Maven, JPA, H2 and PostgreSQL. The entire project was executed and completed. The project was deployed on Heroku and it can be accessed by the link [https://gustavopierre.github.io/doctorcare/](https://course-java-store.herokuapp.com/). It is necessary to use Postman to see its funcinalities.
+
 ## **Javascript, NodeJS, React and React Native, HTML, CSS**
 * [DoctorCare](https://github.com/gustavopierre/doctorcare) - Project was made during a week of [Rocketseat](https://rocketseat.com.br/) imersion called Next Level Week using Javascript, HTML and CSS. The entire project was executed and completed. The website is responsive and it can be accessed by the link https://gustavopierre.github.io/doctorcare/
 * [Omnistack11 Week](https://github.com/gustavopierre/OmniStack11Week) - A week of [Rocketseat](https://rocketseat.com.br/) imersion for using Javascript, NodeJS, React and React Native. Development of web and mobile application, from frontend to backend, through the database. The entire project was executed and completed, despite having no knowledge about any of these technologies.
