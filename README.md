@@ -48,7 +48,7 @@ My credentials include a Master's Degree in Computer Graphics at the Pontifical 
 
 
 ## **Java, Spring Boot, Hibernate, Maven, JPA, H2, PostgreSQL**
-* [course-springboot-2-java-11](https://github.com/gustavopierre/course-springboot-2-java-11) - Backend project was made during the course Full Java Object Oriented Programming + Projects  [Course on Udemy](https://www.udemy.com/course/java-curso-completo/), using Java, Spring Boot, Hibernate, Maven, JPA, H2 and PostgreSQL. The entire project was executed and completed. The project was deployed on Heroku and it can be accessed by the link [https://gustavopierre.github.io/doctorcare/](https://course-java-store.herokuapp.com/). It is necessary to use Postman to see its funcinalities.
+* [course-springboot-2-java-11](https://github.com/gustavopierre/course-springboot-2-java-11) - Backend project was made during the course Full Java Object Oriented Programming + Projects  [Course on Udemy](https://www.udemy.com/course/java-curso-completo/), using Java, Spring Boot, Hibernate, Maven, JPA, H2 and PostgreSQL. The entire project was executed and completed. The project was deployed on Heroku and it can be accessed by the link [https://course-java-store.herokuapp.com/](https://course-java-store.herokuapp.com/). It is necessary to use Postman to see its funcinalities.
 
 ## **Javascript, NodeJS, React and React Native, HTML, CSS**
 * [DoctorCare](https://github.com/gustavopierre/doctorcare) - Project was made during a week of [Rocketseat](https://rocketseat.com.br/) imersion called Next Level Week using Javascript, HTML and CSS. The entire project was executed and completed. The website is responsive and it can be accessed by the link https://gustavopierre.github.io/doctorcare/
