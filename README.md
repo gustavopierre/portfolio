@@ -36,6 +36,7 @@ My credentials include a Master's Degree in Computer Graphics at the Pontifical 
 * [COVID-19, Population, MHDI and Demographic Density in Brazil, a Superficial Data Science Study (in Portuguese)](https://github.com/gustavopierre/data_science_portfolio/blob/master/Gustavo_Moreira_Pierre.ipynb)
 * Analysis of Deaths in Brazil 2019 and 2020 - Streamlit - [Repository](https://github.com/gustavopierre/analise_covid) and [App deployed](https://share.streamlit.io/gustavopierre/analise_covid/main/src/app.py)
 * [Predict whether a COVID-19 Patient will go to the ICU or Not (in Portuguese)](https://github.com/gustavopierre/The_Patient_with_COVID19_Will_Go_to_UCI_or_Not/blob/main/Gustavo_Moreira_Pierre_Projeto_Final.ipynb)
+* 
 
 ## **Python**:
 * Implementing book examples by:
